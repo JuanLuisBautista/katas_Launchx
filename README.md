@@ -1,2 +1,2 @@
 # katas_Launchx
-This files are from a Python preparatory course. 
+These files are from a Python preparatory course. 
